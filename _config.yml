@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Gary Jin"
 title_separator          : "-"
 name                     : &name "Gary Jin"
-description              : &description "personal description"
+description              : &description "-n"
 url                      : https://theattackingeyebrows.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TheAttackingEyebrows/theattackingeyebrows.github.io"
@@ -24,17 +24,17 @@ author:
   avatar           : "profile.png"
   name             : "Gary Jin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Of all the web pages in all the world, you walk into mine"
+  location         : "Sydney NSW, Australia"
+  employer         : "The University of Sydney"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "theattackingeyebrows@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-5073-6257"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
