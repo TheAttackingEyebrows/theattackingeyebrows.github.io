@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020
 venue: "USYD, Engineering"
-date: 2020-2022
+date: 2020-01-01
 ---
 
 Tutoring for INFO1110: Introduction to Programming (2020-2021)
